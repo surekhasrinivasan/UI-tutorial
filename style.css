@@ -1,0 +1,22 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    box-sizing: border-box;
+    outline: none;
+    color: #444;
+    letter-spacing: 1px;
+    height: 100vh;
+    background-image: url(../img/client360-bg-1.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.container {
+    width: 90%;
+    max-width: 500px;
+    margin: 20px auto;
+}
+.logo {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
